@@ -1,4 +1,9 @@
-### Hi there 👋
+#**_Начинающий Frontend pазработчик👍_**
+
+---
+
+
+1. **_Студент колледжа информационных технологий города Павлодар._**
 
 <!--
 **TaDmitry/TaDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
