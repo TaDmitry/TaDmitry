@@ -2,7 +2,7 @@
 
 ---
 
-## Hello, I'm [Your Name]! 👋
+## Hello, I'm Dmitriy! 👋
 
 I'm a proactive Junior Frontend Developer specializing in Vue.js and passionate about crafting seamless user experiences. With a solid foundation in modern web technologies and a knack for clean, maintainable code, I'm eager to contribute to dynamic projects and grow as a developer.
 
@@ -17,25 +17,10 @@ I'm a proactive Junior Frontend Developer specializing in Vue.js and passionate 
 
 ### Get In Touch
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Telegram:** [Message on Telegram](https://t.me/your-telegram-handle)
+- **Email:** [dmitriy.ta.di@gmail.com](mailto:dmitriy.ta.di@gmail.com)
+- **Telegram:** [Message on Telegram](https://t.me/Ta_Diii)
 
 ---
 
 Thank you for visiting my GitHub profile! Let's connect and discuss how I can contribute to your team's success.
 
-<!--
-**TaDmitry/TaDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
