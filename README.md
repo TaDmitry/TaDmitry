@@ -1,26 +1,50 @@
-# Junior Frontend Developer | Vue.js Specialist 👨‍💻
+# Frontend Developer | 👨‍💻  
 
 ---
 
-## Hello, I'm Dmitriy! 👋
+## Hello, I'm Dmitriy! 👋  
 
-I'm a proactive Junior Frontend Developer specializing in Vue.js and passionate about crafting seamless user experiences. With a solid foundation in modern web technologies and a knack for clean, maintainable code, I'm eager to contribute to dynamic projects and grow as a developer.
-
-### Skills & Expertise
-
-- **Frontend Technologies:** Vue.js (including Vue Router), Sass / CSS, JavaScript (ES6+), TypeScript, Vite
-- **Development Practices:** Git (Version Control), Bootstrap (Responsive Design), BEM (Block Element Modifier)
-
-### Education
-
-- **Degree:** College Graduate in Software Development
-
-### Get In Touch
-
-- **Email:** [dmitriy.ta.di@gmail.com](mailto:dmitriy.ta.di@gmail.com)
-- **Telegram:** [Message on Telegram](https://t.me/Ta_Diii)
+I'm a motivated Frontend Developer specializing in **React** and passionate about building responsive, scalable, and user-friendly web applications. With a strong foundation in modern web technologies, a focus on clean, maintainable code, and a commitment to continuous learning, I'm eager to tackle challenging projects and make an impact as part of a talented team.  
 
 ---
 
-Thank you for visiting my GitHub profile! Let's connect and discuss how I can contribute to your team's success.
+## 🚀 Skills & Expertise  
 
+### Frontend Frameworks  
+- **React** (including React Router)  
+- Familiarity with **Vue.js**  
+
+### Styling & UI  
+- CSS3, Sass, Less, Tailwind CSS  
+- BEM methodology  
+
+### State Management  
+- Redux, Context API  
+
+### Build Tools & Workflows  
+- Vite, Webpack  
+- Git (Version Control)  
+
+### Languages  
+- JavaScript (ES6+), TypeScript  
+
+### Development Practices  
+- Cross-browser compatibility  
+- Responsive and adaptive layouts  
+
+---
+
+## 🎓 Education  
+
+- **Degree:** College Graduate in Software Development  
+
+---
+
+## 🌐 Get In Touch  
+
+- **Email:** [dmitriy.ta.di@gmail.com](mailto:dmitriy.ta.di@gmail.com)  
+- **Telegram:** [Message on Telegram](https://t.me/Ta_Diii)  
+
+---
+
+💡 **Thank you for visiting my GitHub profile! Let’s connect and explore opportunities to build exceptional web applications together.**  
