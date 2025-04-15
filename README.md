@@ -1,8 +1,3 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" alt="Dynamic Banner" width="100%">
-</p>
-
 # Frontend Developer | 👨‍💻
 
 ---
@@ -87,20 +82,6 @@ I'm a highly motivated Frontend Developer specializing in **Vue.js**. I have gai
   <a href="https://www.figma.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60" />
   </a>
-</p>
-
----
-
-## ⭐ GitHub Stats
-
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=react" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
