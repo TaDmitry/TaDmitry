@@ -1,77 +1,65 @@
-# Dmitry Tarasenko / Frontend Developer 👨‍💻
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Ta_Diii-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ta_Diii)
-[![Email](https://img.shields.io/badge/Email-dmitriy.ta.di@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dmitriy.ta.di@gmail.com)
+# Дмитрий Тарасенко 👨‍💻
 
----
+### Frontend Developer · React / Next.js / TypeScript
 
-## 👋 Коротко обо мне
+**Создаю интерфейсы, проектирую архитектуру и довожу идеи до работающего продукта.**
 
-Я **Frontend Developer** (Level: **Middle**), специализирующийся на **React / Next.js**.  
-Люблю чистую архитектуру, масштабируемые интерфейсы и осознанный подход к разработке.  
-Имею опыт **team-leading**, внедрения **CI/CD**, работы с **Docker**, построения производительных интерфейсов, а также настройки строгих правил качества кода.  
+[![Telegram](https://img.shields.io/badge/Telegram-@Ta_Diii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ta_Diii)
+[![Email](https://img.shields.io/badge/Написать_мне-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriy.ta.di@gmail.com)
 
-Работаю с современным frontend-стеком и уделяю особое внимание **UX, доступности, производительности и надёжной архитектуре** (FSD, feature modules, shared UI).
+</div>
 
 ---
 
-## 🚀 Что умею (быстрое резюме)
+## ⚡ Разработчик, который видит продукт целиком
 
-- **Frontend / Frameworks:** React, Next.js, PWA  
-- **Languages:** JavaScript (ES6+), TypeScript  
-- **State / Data:** Redux, Zustand, Context API, REST APIs  
-- **Styling / UI:** Sass, Less, Tailwind CSS, Figma  
-- **Build / Tooling:** Vite, Webpack, ESLint, Prettier, Husky, lint-staged  
-- **DevOps / Other:** Docker (basic), CI/CD, i18next, FSD architecture, Git, GitHub Actions  
+У меня **более 3 лет коммерческого опыта**. Моя основная специализация **frontend на React,
+Next.js и TypeScript**: от интерфейсов и пользовательских сценариев до архитектуры, интеграций и
+производительности.
 
----
+Мне интересно понимать, **какую задачу решает продукт и как сделать его удобнее для пользователя**.
+Поэтому в работе я связываю интерфейс, бизнес-логику и технические решения: продумываю состояния,
+обработку ошибок, доступность и дальнейшее развитие функциональности.
 
-## 🧰 Технологии
+Ранее я руководил frontend-командой из **12+ разработчиков**, оставаясь практикующим разработчиком.
+Сейчас участвую в создании кроссплатформенного AI-продукта **Relayna** и развиваю собственный
+продукт **ZIVQOR**.
 
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img alt="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img alt="Vite" src="https://vitejs.dev/logo.svg" width="48" />
-  </a>
-  <a href="https://www.figma.com" target="_blank">
-    <img alt="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" />
-  </a>
-</p>
+**Моя сильная сторона самостоятельность:** могу разобраться в существующей кодовой базе,
+спроектировать решение, реализовать его и довести до проверяемого результата.
 
 ---
 
-## 💼 Профессиональный опыт ключевые моменты
+## 🎯 Что я могу дать команде
 
-- Руководил командой 12+ разработчиков (Team Lead): архитектура, ревью, технические решения.  
-- Запуск PWA на **Next.js**: авторизация, хранение данных, offline-режим, push-уведомления.  
-- Полная настройка CI/CD (GitHub Actions), контейнеризация, оптимизация production-сборок.  
-- Внедрение архитектуры **FSD** и строгой структуры проекта.  
-- Улучшение качества кода: ESLint, Prettier, Husky, commitlint, lint-staged.  
-- Интеграция локализации через **i18next**, создание UI-компонентов и shared-модулей.   
+- **Разработку функциональности целиком:** разобраться в требованиях, собрать интерфейс, подключить
+  API и проверить пользовательский сценарий.
+- **Понятную архитектуру:** разделить ответственность модулей, выделить общие компоненты и
+  подготовить код к развитию.
+- **Внимание к деталям:** продумать загрузку, ошибки, пустые состояния, адаптивность и управление с
+  клавиатуры.
+- **Качество, которое можно проверить:** настроить статические проверки, тестирование и контроль
+  сборки.
+- **Сильную командную работу:** аргументировать технические решения, проводить code review и
+  помогать другим разработчикам.
+- **Практичное применение AI:** использовать coding agents для анализа, реализации и рефакторинга,
+  проверяя результат через код, тесты и поведение продукта.
 
 ---
 
-⭐ **Спасибо, что заглянули в профиль!**  
+## 🚀 Опыт в действии
+
+### Relayna · Кроссплатформенный AI-продукт
+
+Участвую в разработке персонального AI-ассистента для **Web, Android и iOS** на React Native и Expo.
+
+- Разрабатываю интерфейсы и бизнес-логику личного кабинета.
+- Работаю с REST API, WebSocket и синхронизацией состояния.
+- Реализовал **drag-and-drop персонализацию кабинета** с сохранением конфигурации на сервере.
+- Участвую в полном цикле работы: от анализа задачи до PR, code review и merge.
+
+### ZIVQOR · Собственный продукт
+
+Развиваю fullstack-проект на **Next.js, React, TypeScript и Supabase**.
